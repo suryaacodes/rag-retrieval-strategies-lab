@@ -1,0 +1,9 @@
+[
+  {
+    "id": "refund_1",
+    "question": "What is the refund window?",
+    "relevant_sources": [
+      "data/policy_refunds.txt"
+    ]
+  }
+]
